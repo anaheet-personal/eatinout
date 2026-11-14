@@ -13,7 +13,7 @@
   <img alt="Tailwind CSS v4" src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-Postgres_%2B_Auth_%2B_RLS-3FCF8E?logo=supabase&logoColor=white">
   <img alt="Vitest" src="https://img.shields.io/badge/tested_with-Vitest-6E9F18?logo=vitest&logoColor=white">
-  <img alt="Mobile-first PWA" src="https://img.shields.io/badge/mobile--first-PWA-EA580C">
+  <img alt="Mobile-first PWA" src="https://img.shields.io/badge/mobile--first-PWA-0C7FEA">
 </p>
 
 # EatinOut
